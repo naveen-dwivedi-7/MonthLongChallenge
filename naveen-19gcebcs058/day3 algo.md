@@ -21,14 +21,4 @@ So our first task is to determine the point where the slope of our graph falls
 
 7.We have the start and endpoints of our subarray, and its length can easily be determined. 
 
-Let us understand this with the help of an example:
-
-N = 7
-
-ARR = {2, 6, 4, 8, 10, 9, 15}
-
-Thus, the length of the shortest possible continuous subarray is given by 
-
-5 - 1 + 1 which is 5.
-
 TC=O(N) and SC=O(1)
