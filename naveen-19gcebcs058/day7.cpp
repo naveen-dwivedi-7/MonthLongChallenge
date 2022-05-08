@@ -22,3 +22,5 @@ stack<pair<int,int>> s;  //*** stack with first as value at index and second as 
             s.push({nums[i],mini});  
            
         
+//  TC=O(n) 
+//  SC=O(n)         
